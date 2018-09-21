@@ -7,4 +7,4 @@ The simpleset way to run this game is to download Intellij Idea, paste the code 
                                 
 We can directly download the jar file that I uploaded and enjoy the game.
 
-The rules to play the game can be found inside the Help menu at the top left of the game screen.
+The rules to can be found inside the Help menu at the top left of the game screen.
