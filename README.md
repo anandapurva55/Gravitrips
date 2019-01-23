@@ -1,7 +1,7 @@
 # Gravitrips
 This is a two player game programmed in JavaFx platform using Intellij Idea as a part of an online course.
 JavaFx is a combination of Java and XML.Here we use Java for backend and XML for frontend development.
-The simpleset way to run this game is to download Intellij Idea, paste the code and run it.
+The simplset way to run this game is to download any IDE supporting JVM, paste the code and run it.
 
                                 or,
                                 
